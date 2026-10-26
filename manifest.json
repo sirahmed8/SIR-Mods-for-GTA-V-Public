@@ -1,0 +1,20 @@
+{
+  "project": "SIR Mods for GTA V",
+  "title": "SIR Mods for GTA V (Los Santos Alive)",
+  "title_ar": "منظومة مودات جي تي إيه 5 واقعية لوس سانتوس الحية",
+  "version": "1.0.0",
+  "updated_at": "2026-10-26T08:21:17.058961+00:00",
+  "zip_package": {
+    "file_name": "SIR_GTA_V_Mods_Suite.zip",
+    "size_bytes": 197518695,
+    "size_mb": 188.37,
+    "sha256": "9dee48770686d5b7af8c2632b6290d6c2bc786dab9a39ce5e7e09f5074f884fe",
+    "relative_url": "/downloads/SIR_GTA_V_Mods_Suite.zip"
+  },
+  "main_executable": {
+    "file_name": "SIR_Mods_for_GTA_V_Setup_v1.0.0.exe",
+    "size_bytes": 197528525,
+    "sha256": "f98369301a1aa446600267810ce56cfea82494f5e0aafd978ea625c982e86e28",
+    "relative_url": "/downloads/SIR_Mods_for_GTA_V_Setup_v1.0.0.exe"
+  }
+}
